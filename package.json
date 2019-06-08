@@ -1,0 +1,19 @@
+{
+  "name": "pinbutton-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "postcss.config.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^1.2.0",
+    "parcel-bundler": "^1.12.3",
+    "tailwindcss": "^1.0.3"
+  },
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
